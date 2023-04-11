@@ -1,0 +1,15 @@
+{
+  "env": {
+    "MONGO_URL": "mongodb+srv://adriaanbornman1:admin@cluster0.2t7irr1.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
+// mongodb+srv://adriaanbornman1:admin@cluster0.2t7irr1.mongodb.net/?retryWrites=true&w=majority
+// MONGO_URL='mongodb+srv://adriaanbornman1:admin@cluster0.2t7irr1.mongodb.net/?retryWrites=true&w=majority' meteor run
+
+// MONGO_URL=mongodb://localhost:27017/dbname meteor run
+
+//mongodb+srv://adriaanbornman1:admin@cluster0.dh3hc01.mongodb.net/test?retryWrites=true&w=majority
+
+//mongodb+srv://adriaanbornman1:admin@cluster0.2t7irr1.mongodb.net/?retryWrites=true&w=majority
+
+// $env:MONGO_URL='mongodb+srv://adriaanbornman1:admin@cluster0.2t7irr1.mongodb.net/?retryWrites=true&w=majority meteor run
